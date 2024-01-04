@@ -3,7 +3,7 @@
 ## Re-implementation and Analysis of SimCLR: A Contrastive Learning Framework
 
 ## Description
-This repository contains a reimplementation of the SimCLR paper **A Simple Framework for Contrastive Learning of Visual Representations** by Chen et al. [![link](https://arxiv.org/abs/2002.05709)], a framework for contrastive learning of visual representations. Our project specifically focuses on different ResNet models: ResNet50, ResNet101, and ResNet152. Each model directory contains its utilities, Jupyter Notebooks (`*.ipynb`) for model architecture, and saved models with various batch sizes.
+This repository contains a reimplementation of the SimCLR paper **A Simple Framework for Contrastive Learning of Visual Representations** by Chen et al., a framework for contrastive learning of visual representations. Our project specifically focuses on different ResNet models: ResNet50, ResNet101, and ResNet152. Each model directory contains its utilities, Jupyter Notebooks (`*.ipynb`) for model architecture, and saved models with various batch sizes.
 
 ## Structure
 The repository is organized into the following directories:
